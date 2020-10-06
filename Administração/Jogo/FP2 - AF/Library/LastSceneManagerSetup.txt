@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Autoral/Area de Testes/GabrielGarcia/Mapas/TesteLevel01.unity
+- path: Assets/Autoral/CenasMainGame/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
